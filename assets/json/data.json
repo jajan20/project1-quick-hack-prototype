@@ -1,0 +1,1651 @@
+{
+    "_embedded": {
+        "panden": [
+            {
+                "identificatiecode": "0010100000006878",
+                "oorspronkelijkBouwjaar": 1967,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006878?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006878/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006878&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9314161,
+                                    53.2516225
+                                ],
+                                [
+                                    6.9313819,
+                                    53.2516247
+                                ],
+                                [
+                                    6.9313747,
+                                    53.2515843
+                                ],
+                                [
+                                    6.9313154,
+                                    53.251588
+                                ],
+                                [
+                                    6.9313004,
+                                    53.251589
+                                ],
+                                [
+                                    6.9312884,
+                                    53.2515199
+                                ],
+                                [
+                                    6.9313824,
+                                    53.251514
+                                ],
+                                [
+                                    6.9313945,
+                                    53.2515831
+                                ],
+                                [
+                                    6.9314091,
+                                    53.2515822
+                                ],
+                                [
+                                    6.9314161,
+                                    53.2516225
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006878 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006880",
+                "oorspronkelijkBouwjaar": 1967,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006880?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006880/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006880&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9313224,
+                                    53.2516284
+                                ],
+                                [
+                                    6.9312881,
+                                    53.2516305
+                                ],
+                                [
+                                    6.9312812,
+                                    53.2515902
+                                ],
+                                [
+                                    6.9312042,
+                                    53.251595
+                                ],
+                                [
+                                    6.9311921,
+                                    53.251526
+                                ],
+                                [
+                                    6.9312884,
+                                    53.2515199
+                                ],
+                                [
+                                    6.9313004,
+                                    53.251589
+                                ],
+                                [
+                                    6.9313154,
+                                    53.251588
+                                ],
+                                [
+                                    6.9313224,
+                                    53.2516284
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006880 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006881",
+                "oorspronkelijkBouwjaar": 1970,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006881?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006881/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006881&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9330898,
+                                    53.2516194
+                                ],
+                                [
+                                    6.932944,
+                                    53.2516289
+                                ],
+                                [
+                                    6.9329352,
+                                    53.2515808
+                                ],
+                                [
+                                    6.933081,
+                                    53.2515713
+                                ],
+                                [
+                                    6.9330859,
+                                    53.2515982
+                                ],
+                                [
+                                    6.9331455,
+                                    53.2515943
+                                ],
+                                [
+                                    6.9331494,
+                                    53.2516155
+                                ],
+                                [
+                                    6.9330898,
+                                    53.2516194
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006881 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006882",
+                "oorspronkelijkBouwjaar": 1935,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006882?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006882/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006882&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9299275,
+                                    53.251479
+                                ],
+                                [
+                                    6.9300573,
+                                    53.2514813
+                                ],
+                                [
+                                    6.9300537,
+                                    53.2515811
+                                ],
+                                [
+                                    6.9300634,
+                                    53.2515813
+                                ],
+                                [
+                                    6.9300351,
+                                    53.2516709
+                                ],
+                                [
+                                    6.9299579,
+                                    53.251663
+                                ],
+                                [
+                                    6.9299604,
+                                    53.2516551
+                                ],
+                                [
+                                    6.9299241,
+                                    53.251651
+                                ],
+                                [
+                                    6.9299129,
+                                    53.2516567
+                                ],
+                                [
+                                    6.9298831,
+                                    53.2516535
+                                ],
+                                [
+                                    6.9298755,
+                                    53.2516456
+                                ],
+                                [
+                                    6.9298674,
+                                    53.2516448
+                                ],
+                                [
+                                    6.9298934,
+                                    53.2515631
+                                ],
+                                [
+                                    6.9299255,
+                                    53.2515665
+                                ],
+                                [
+                                    6.9299275,
+                                    53.251479
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006882 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006884",
+                "oorspronkelijkBouwjaar": 1977,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006884?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006884/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006884&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9287615,
+                                    53.2516219
+                                ],
+                                [
+                                    6.92878,
+                                    53.251693
+                                ],
+                                [
+                                    6.9285757,
+                                    53.2517122
+                                ],
+                                [
+                                    6.9285572,
+                                    53.2516412
+                                ],
+                                [
+                                    6.9287615,
+                                    53.2516219
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006884 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006890",
+                "oorspronkelijkBouwjaar": 1979,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006890?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006890/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006890&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9337201,
+                                    53.2516769
+                                ],
+                                [
+                                    6.9336605,
+                                    53.2516807
+                                ],
+                                [
+                                    6.9336568,
+                                    53.2516598
+                                ],
+                                [
+                                    6.9337164,
+                                    53.2516561
+                                ],
+                                [
+                                    6.9337115,
+                                    53.2516286
+                                ],
+                                [
+                                    6.9338573,
+                                    53.2516193
+                                ],
+                                [
+                                    6.933866,
+                                    53.2516675
+                                ],
+                                [
+                                    6.9337201,
+                                    53.2516769
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1999-08-24T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006890 van 1999-08-24",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1977/?/708/7",
+                                "documentdatum": "1999-08-24"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006893",
+                "oorspronkelijkBouwjaar": 1995,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006893?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006893/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006893&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9336479,
+                                    53.2518868
+                                ],
+                                [
+                                    6.9335287,
+                                    53.2518808
+                                ],
+                                [
+                                    6.9335349,
+                                    53.251836
+                                ],
+                                [
+                                    6.9336542,
+                                    53.2518421
+                                ],
+                                [
+                                    6.9336479,
+                                    53.2518868
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006893 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006900",
+                "oorspronkelijkBouwjaar": 1979,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006900?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006900/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006900&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9343315,
+                                    53.251911
+                                ],
+                                [
+                                    6.9342875,
+                                    53.2519033
+                                ],
+                                [
+                                    6.9342707,
+                                    53.2519379
+                                ],
+                                [
+                                    6.9342371,
+                                    53.251932
+                                ],
+                                [
+                                    6.9342538,
+                                    53.2518975
+                                ],
+                                [
+                                    6.9342947,
+                                    53.2518129
+                                ],
+                                [
+                                    6.9343724,
+                                    53.2518264
+                                ],
+                                [
+                                    6.9343315,
+                                    53.251911
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1999-08-24T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006900 van 1999-08-24",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1977/?/708/7",
+                                "documentdatum": "1999-08-24"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006901",
+                "oorspronkelijkBouwjaar": 1965,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006901?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006901/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006901&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.932595,
+                                    53.2519595
+                                ],
+                                [
+                                    6.9324911,
+                                    53.2519655
+                                ],
+                                [
+                                    6.9324857,
+                                    53.2519324
+                                ],
+                                [
+                                    6.9324412,
+                                    53.251935
+                                ],
+                                [
+                                    6.9324423,
+                                    53.2519415
+                                ],
+                                [
+                                    6.9324067,
+                                    53.2519436
+                                ],
+                                [
+                                    6.9324021,
+                                    53.251915
+                                ],
+                                [
+                                    6.9325862,
+                                    53.2519043
+                                ],
+                                [
+                                    6.932595,
+                                    53.2519595
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006901 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006902",
+                "oorspronkelijkBouwjaar": 1979,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006902?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006902/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006902&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9344091,
+                                    53.2519245
+                                ],
+                                [
+                                    6.9343653,
+                                    53.2519169
+                                ],
+                                [
+                                    6.9343485,
+                                    53.2519513
+                                ],
+                                [
+                                    6.9343147,
+                                    53.2519455
+                                ],
+                                [
+                                    6.9343315,
+                                    53.251911
+                                ],
+                                [
+                                    6.9343724,
+                                    53.2518264
+                                ],
+                                [
+                                    6.9344501,
+                                    53.25184
+                                ],
+                                [
+                                    6.9344091,
+                                    53.2519245
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1999-08-24T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006902 van 1999-08-24",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1977/?/708/7",
+                                "documentdatum": "1999-08-24"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006905",
+                "oorspronkelijkBouwjaar": 1989,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006905?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006905/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006905&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9356162,
+                                    53.2518001
+                                ],
+                                [
+                                    6.9356307,
+                                    53.2518994
+                                ],
+                                [
+                                    6.9355846,
+                                    53.2519019
+                                ],
+                                [
+                                    6.9355926,
+                                    53.2519557
+                                ],
+                                [
+                                    6.9355033,
+                                    53.2519605
+                                ],
+                                [
+                                    6.9354926,
+                                    53.2518888
+                                ],
+                                [
+                                    6.9355388,
+                                    53.2518863
+                                ],
+                                [
+                                    6.9355266,
+                                    53.2518049
+                                ],
+                                [
+                                    6.9356162,
+                                    53.2518001
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1997-12-23T00:00:00.000+01:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006905 van 1997-12-23",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1997/00-0498",
+                                "documentdatum": "1997-12-23"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006906",
+                "oorspronkelijkBouwjaar": 1930,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006906?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006906/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006906&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9293272,
+                                    53.2520318
+                                ],
+                                [
+                                    6.9292015,
+                                    53.2520439
+                                ],
+                                [
+                                    6.9291855,
+                                    53.2519836
+                                ],
+                                [
+                                    6.9293082,
+                                    53.2519719
+                                ],
+                                [
+                                    6.929305,
+                                    53.2519602
+                                ],
+                                [
+                                    6.9293784,
+                                    53.2519533
+                                ],
+                                [
+                                    6.9293979,
+                                    53.2520269
+                                ],
+                                [
+                                    6.9293276,
+                                    53.2520336
+                                ],
+                                [
+                                    6.9293272,
+                                    53.2520318
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006906 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006907",
+                "oorspronkelijkBouwjaar": 1979,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006907?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006907/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006907&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.934564,
+                                    53.2519514
+                                ],
+                                [
+                                    6.9345204,
+                                    53.2519438
+                                ],
+                                [
+                                    6.9345037,
+                                    53.2519784
+                                ],
+                                [
+                                    6.9344701,
+                                    53.2519725
+                                ],
+                                [
+                                    6.9344867,
+                                    53.2519381
+                                ],
+                                [
+                                    6.9345276,
+                                    53.2518535
+                                ],
+                                [
+                                    6.9346049,
+                                    53.2518669
+                                ],
+                                [
+                                    6.9346091,
+                                    53.2518676
+                                ],
+                                [
+                                    6.9345966,
+                                    53.2518938
+                                ],
+                                [
+                                    6.9345923,
+                                    53.251893
+                                ],
+                                [
+                                    6.934564,
+                                    53.2519514
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1999-08-24T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006907 van 1999-08-24",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1977/?/708/7",
+                                "documentdatum": "1999-08-24"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006908",
+                "oorspronkelijkBouwjaar": 1970,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006908?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006908/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006908&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9331573,
+                                    53.2519912
+                                ],
+                                [
+                                    6.9330116,
+                                    53.2520007
+                                ],
+                                [
+                                    6.9330029,
+                                    53.2519523
+                                ],
+                                [
+                                    6.9331486,
+                                    53.2519428
+                                ],
+                                [
+                                    6.9331534,
+                                    53.25197
+                                ],
+                                [
+                                    6.9332131,
+                                    53.2519661
+                                ],
+                                [
+                                    6.933217,
+                                    53.2519873
+                                ],
+                                [
+                                    6.9331573,
+                                    53.2519912
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006908 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006910",
+                "oorspronkelijkBouwjaar": 1989,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006910?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006910/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006910&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9353838,
+                                    53.2519965
+                                ],
+                                [
+                                    6.9353312,
+                                    53.251942
+                                ],
+                                [
+                                    6.9353701,
+                                    53.2519285
+                                ],
+                                [
+                                    6.9353071,
+                                    53.2518634
+                                ],
+                                [
+                                    6.9353849,
+                                    53.2518365
+                                ],
+                                [
+                                    6.9354682,
+                                    53.2519227
+                                ],
+                                [
+                                    6.9353918,
+                                    53.2519491
+                                ],
+                                [
+                                    6.9354239,
+                                    53.2519825
+                                ],
+                                [
+                                    6.9353838,
+                                    53.2519965
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006910 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006912",
+                "oorspronkelijkBouwjaar": 1979,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006912?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006912/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006912&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9346289,
+                                    53.251991
+                                ],
+                                [
+                                    6.9345854,
+                                    53.2519834
+                                ],
+                                [
+                                    6.9345686,
+                                    53.252018
+                                ],
+                                [
+                                    6.9345347,
+                                    53.2520121
+                                ],
+                                [
+                                    6.934564,
+                                    53.2519514
+                                ],
+                                [
+                                    6.9345923,
+                                    53.251893
+                                ],
+                                [
+                                    6.9345966,
+                                    53.2518938
+                                ],
+                                [
+                                    6.9346698,
+                                    53.2519065
+                                ],
+                                [
+                                    6.9346289,
+                                    53.251991
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1999-08-24T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006912 van 1999-08-24",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1977/?/708/7",
+                                "documentdatum": "1999-08-24"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006916",
+                "oorspronkelijkBouwjaar": 1979,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006916?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006916/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006916&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9347522,
+                                    53.2519207
+                                ],
+                                [
+                                    6.9347474,
+                                    53.2519306
+                                ],
+                                [
+                                    6.9348489,
+                                    53.2519482
+                                ],
+                                [
+                                    6.9348074,
+                                    53.2520327
+                                ],
+                                [
+                                    6.9347023,
+                                    53.2520145
+                                ],
+                                [
+                                    6.9347071,
+                                    53.2520046
+                                ],
+                                [
+                                    6.9346289,
+                                    53.251991
+                                ],
+                                [
+                                    6.9346698,
+                                    53.2519065
+                                ],
+                                [
+                                    6.9347522,
+                                    53.2519207
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1999-08-24T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006916 van 1999-08-24",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1977/?/708/7",
+                                "documentdatum": "1999-08-24"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006918",
+                "oorspronkelijkBouwjaar": 1970,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006918?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006918/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006918&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9311928,
+                                    53.2520285
+                                ],
+                                [
+                                    6.9312081,
+                                    53.2520861
+                                ],
+                                [
+                                    6.931104,
+                                    53.2520959
+                                ],
+                                [
+                                    6.9310943,
+                                    53.2520587
+                                ],
+                                [
+                                    6.9309572,
+                                    53.2520717
+                                ],
+                                [
+                                    6.9309373,
+                                    53.2519966
+                                ],
+                                [
+                                    6.9311198,
+                                    53.2519793
+                                ],
+                                [
+                                    6.9311341,
+                                    53.2520341
+                                ],
+                                [
+                                    6.9311928,
+                                    53.2520285
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006918 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006919",
+                "oorspronkelijkBouwjaar": 1934,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006919?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006919/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006919&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.9307436,
+                                    53.2520316
+                                ],
+                                [
+                                    6.930754,
+                                    53.2520716
+                                ],
+                                [
+                                    6.9306926,
+                                    53.252077
+                                ],
+                                [
+                                    6.9306947,
+                                    53.2520855
+                                ],
+                                [
+                                    6.930562,
+                                    53.2520971
+                                ],
+                                [
+                                    6.9305622,
+                                    53.2520976
+                                ],
+                                [
+                                    6.9304485,
+                                    53.2521076
+                                ],
+                                [
+                                    6.9304408,
+                                    53.2520755
+                                ],
+                                [
+                                    6.9305543,
+                                    53.2520655
+                                ],
+                                [
+                                    6.9305491,
+                                    53.2520439
+                                ],
+                                [
+                                    6.930662,
+                                    53.2520335
+                                ],
+                                [
+                                    6.9306633,
+                                    53.2520385
+                                ],
+                                [
+                                    6.9307436,
+                                    53.2520316
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "2010-05-11T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006919 van 2010-05-11",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "2010/VBO001F",
+                                "documentdatum": "2010-05-11"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "identificatiecode": "0010100000006921",
+                "oorspronkelijkBouwjaar": 1989,
+                "status": "PandInGebruik",
+                "_links": {
+                    "self": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006921?geldigOp=2018-03-06"
+                    },
+                    "voorkomens": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden/0010100000006921/voorkomens?geldigOp=2018-03-06"
+                    },
+                    "verblijfsobjecten": {
+                        "href": "https://bag.basisregistraties.overheid.nl/api/v1/verblijfsobjecten?pandrelatering=0010100000006921&geldigOp=2018-03-06"
+                    }
+                },
+                "_embedded": {
+                    "geometrie": {
+                        "coordinates": [
+                            [
+                                [
+                                    6.935314,
+                                    53.2520635
+                                ],
+                                [
+                                    6.9352046,
+                                    53.2520342
+                                ],
+                                [
+                                    6.9352229,
+                                    53.2520096
+                                ],
+                                [
+                                    6.9351337,
+                                    53.2519858
+                                ],
+                                [
+                                    6.9351697,
+                                    53.2519365
+                                ],
+                                [
+                                    6.9353138,
+                                    53.2519748
+                                ],
+                                [
+                                    6.9352843,
+                                    53.2520143
+                                ],
+                                [
+                                    6.9353394,
+                                    53.2520291
+                                ],
+                                [
+                                    6.935314,
+                                    53.2520635
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "urn:ogc:def:crs:EPSG::4258"
+                            }
+                        }
+                    },
+                    "geldigVoorkomen": {
+                        "beginGeldigheid": "1989-08-07T00:00:00.000+02:00",
+                        "eindGeldigheid": null,
+                        "inOnderzoek": false,
+                        "geconstateerd": false,
+                        "aanduidingInactief": false,
+                        "aanduidingCorrectie": 0,
+                        "label": "Voorkomen Pand 0010100000006921 van 1989-08-07",
+                        "_embedded": {
+                            "bron": {
+                                "documentnummer": "1989/80/704/2",
+                                "documentdatum": "1989-08-07"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "next": {
+            "href": "https://bag.basisregistraties.overheid.nl/api/v1/panden?page=2"
+        }
+    }
+}
